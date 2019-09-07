@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "941289099897",
+    "firebase_url": "https://fir-messenger-f86b5.firebaseio.com",
+    "project_id": "fir-messenger-f86b5",
+    "storage_bucket": "fir-messenger-f86b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941289099897:android:6b71f6c4d8f3efed",
+        "android_client_info": {
+          "package_name": "com.supriya.firebasemessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941289099897-japl60pn74cc5kntt3cinms1trr93stk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.supriya.firebasemessenger",
+            "certificate_hash": "560d8a44053d5c5aea46301dac9c49c35327ebfc"
+          }
+        },
+        {
+          "client_id": "941289099897-di6o4rqhktfimq7vsd2fa52qg8cinf7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmQbmnXaR5Ee4gwLU48hqfCEsH6H8w5Ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941289099897-di6o4rqhktfimq7vsd2fa52qg8cinf7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

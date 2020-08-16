@@ -9,7 +9,7 @@ import com.google.firebase.auth.FirebaseAuth
 import kotlinx.android.synthetic.main.activity_login.*
 
 class LoginActivity :AppCompatActivity(){
-
+//initializes auth whenever called for the first time
     val  auth by lazy{
         FirebaseAuth.getInstance()
     }
